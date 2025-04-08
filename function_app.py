@@ -11,4 +11,4 @@ def func01(myTimer: func.TimerRequest) -> None:
 
     logging.info('Python timer trigger function executed.')
 
-print("Hello Cloud!")
+print("Hello Cloud! This is Sodexo team")
